@@ -8,6 +8,7 @@ import java.sql.Statement;
 
 public class Test01 {
 	
+	//ceshi
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 		Connection conn = null;
 		Class.forName("oracle.jdbc.driver.OracleDriver");
